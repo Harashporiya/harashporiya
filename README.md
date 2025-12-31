@@ -1,1 +1,1 @@
-# Hi 👋, I'm Harash Poriya
+# Hey 👋🏼 I'm Harash Poriya

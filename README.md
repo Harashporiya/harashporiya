@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Harash Poriya  
 
-<!--
-**Harashporiya/harashporiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (3rd Year) | Chitkara University  
+💻 Full Stack Developer  
+🚀 React | Node.js | MongoDB | TypeScript  
+🤖 Exploring AI with LangChain & Vector DBs  
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
+- GitHub: https://github.com/harashporiya  
+- LinkedIn: https://linkedin.com/in/your-link  
+- Portfolio: https://your-portfolio-link  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+Check out my repositories below 👇
